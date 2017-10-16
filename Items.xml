@@ -1,6 +1,6 @@
 	 <category name="MFGA">
 		<category name="Last Resort">
-			<item name="Big Wheel" tagindex="0x0000510D" />    <!-- tag phased by default ONLY -->
+			<item name="Big Wheel" tagindex="0x0000510D" />   
 			<item name="Barricade" tagindex="0x00005210" />  
 			<item name="Window" tagindex="0x000051EA" />  
 			<item name="Barriers" tagindex="0x00005102" />  
@@ -43,6 +43,119 @@
 			<item name="Scorpion Turret" tagindex="0x000028C7" />  	
 			<item name="Wraith Turret" tagindex="0x00003743" />  	
 			<item name="Prowler Turret" tagindex="0x000053A2" />  	
+			</category>
+			</category>
+		<category name="Decor">	
+		<category name="Vehicle Parts">	
+			<category name="Scorpion">	
+		<item name="Scorpion, Drivers Hatch" tagindex="0x00002996" />  
+		<item name="Scorpion, Duffle Bag" tagindex="0x00002988" />   
+		<item name="Scorpion, Engine Panel" tagindex="0x00002989" />  
+		<item name="Scorpion, Engine Panel Large" tagindex="0x00002987" />  
+		<item name="Scorpion, Left Back Tread" tagindex="0x00002978" />  
+		<item name="Scorpion, Left Back Tread Cover" tagindex="0x000029B6" />  
+		<item name="Scorpion, Left Front Tread" tagindex="0x00002982" />  
+		<item name="Scorpion, Large Panel" tagindex="0x000029A4" />  
+		<item name="Scorpion, Tread Cover" tagindex="0x000029A3" />  
+		<item name="Scorpion, Right Back Tread" tagindex="0x0000297D" />  
+		<item name="Scorpion, Right Back Tread Cover" tagindex="0x000029C0" />  
+		<item name="Scorpion, Right Back Tread Cover" tagindex="0x000029BB" />  
+		<item name="Scorpion, Right Front Tread" tagindex="0x00002964" />  
+		<item name="Scorpion, Tread Side Panel" tagindex="0x000029A5" />  
+		<item name="Scorpion, Broken Turret" tagindex="0x00002941" />  
+		<item name="Scorpion, Broken Cannon" tagindex="0x00002958" /> 
+			</category>			
+			<category name="Warthog">	
+		<item name="Warthog, Tire" tagindex="0x00002A76" />  
+		<item name="Warthog, Chaingun Barrel" tagindex="0x00002A0B" />  
+		<item name="Warthog, Turret Shield" tagindex="0x00002A0B" />  
+		<item name="Warthog, Floodlights" tagindex="0x00002A65" />
+			</category>			
+			<category name="Chopper">	
+		<item name="Chopper, Rear Part" tagindex="0x00003907" />  
+		<item name="Chopper, Left Part" tagindex="0x0000390D" />  
+		<item name="Chopper, Right Part" tagindex="0x00003912" />  
+		<item name="Chopper, Left Blade" tagindex="0x00003917" />  
+		<item name="Chopper, Right Blade" tagindex="0x0000391C" />  
+		<item name="Chopper, Left Rotor" tagindex="0x00003901" />  
+		<item name="Chopper, Right Rotor" tagindex="0x000038FA" />  
+		<item name="Chopper, Seat" tagindex="0x000038E9" />  
+			</category>	
+			<category name="Ghost">	
+		<item name="Ghost, Anti-Grav" tagindex="0x0000387E" />   
+		<item name="Ghost, Hull" tagindex="0x0000388B" />   
+		<item name="Ghost, Gun" tagindex="0x0000386C" />   
+		<item name="Ghost, Wing" tagindex="0x0000386B" />   
+		<item name="Ghost, Seat" tagindex="0x00003883" /> 
+			</category>			
+			<category name="Hornet">	
+		<item name="Hornet, Cover" tagindex="0x00002D0D" />  		
+		<item name="Hornet, Right Cover" tagindex="0x00002D08" />  		
+		<item name="Hornet, Flap" tagindex="0x00002CEA" />  		
+		<item name="Hornet, Left Gun" tagindex="0x00002D21" />  		
+		<item name="Hornet, Right Gun" tagindex="0x00002D1C" />  		
+		<item name="Hornet, Jet" tagindex="0x00002CE7" />  		
+		<item name="Hornet, Right Jet" tagindex="0x00002CFE" />  		
+		<item name="Hornet, Landing Gear" tagindex="0x00002CE0" />  		
+		<item name="Hornet, Rotor" tagindex="0x00002CE9" />  		
+		<item name="Hornet, Left Skid" tagindex="0x00002D17" />  		
+		<item name="Hornet, Right Skid" tagindex="0x00002D12" />  		
+		<item name="Hornet, Tail" tagindex="0x00002CBF" />  		
+		<item name="Hornet, Thruster" tagindex="0x00002CE8" />  		
+		<item name="Hornet, Winch" tagindex="0x00002D03" />  
+			</category>	
+			<category name="Prowler">	
+		<item name="Prowler, Clamp" tagindex="0x000053E3" />  		
+		<item name="Prowler, Gear" tagindex="0x000053D2" />  		
+		<item name="Prowler, Hull" tagindex="0x000053C6" />  		
+		<item name="Prowler, Left Skid" tagindex="0x000053B4" />  		
+		<item name="Prowler, Right Skid" tagindex="0x000053BA" />  		
+		<item name="Prowler, Scoop" tagindex="0x000053D8" />  		
+		<item name="Prowler, Seat" tagindex="0x000053C0" />  		
+		<item name="Prowler, Sprocket" tagindex="0x000053CD" />  		
+		<item name="Prowler, Broken Turret" tagindex="0x000053A9" />  
+		</category>		
+			<category name="Mongoose">	
+		<item name="Mongoose, Cargo Shelf" tagindex="0x00003135" />  		
+		<item name="Mongoose, Left Cowl" tagindex="0x0000313E" />  		
+		<item name="Mongoose, Right Cowl" tagindex="0x0000313F" />  		
+		<item name="Mongoose, Left Back Fender" tagindex="0x0000314E" />  		
+		<item name="Mongoose, Ramp" tagindex="0x0000312D" />  		
+		<item name="Mongoose, Right Back Fender" tagindex="0x00003154" />  		
+		<item name="Mongoose, Wheel" tagindex="0x0000311D" />  		
+		</category>		
+			<category name="Shade">	
+		<item name="Shade, Door" tagindex="0x000030E1" />  		
+		<item name="Shade, Gun" tagindex="0x000030D3" />  		
+		<item name="Shade, Ring" tagindex="0x000030C5" />  		
+		</category>		
+			<category name="Wraith">	
+		<item name="Wraith, Left Pods" tagindex="0x000037C6" />  		 		
+		<item name="Wraith, Right Pods" tagindex="0x000037C7" />  		 		
+		<item name="Wraith, Broken Turret" tagindex="0x0000379F" />  		 		
+		<item name="Wraith, Gear" tagindex="0x0000380B" />  		 		
+		<item name="Wraith, Hatch" tagindex="0x000037ED" />  		 		
+		<item name="Wraith, Left Mortar Deflector" tagindex="0x0000377B" />  		 		
+		<item name="Wraith, Mortar Door" tagindex="0x0000378A" />  		 		
+		<item name="Wraith, Mortar Gun" tagindex="0x0000377C" />  		 		
+		<item name="Wraith, Mortar Hatch" tagindex="0x00003806" />  		 		
+		<item name="Wraith, Right Rudder" tagindex="0x00003801" />  		 		
+		<item name="Wraith, Rudder Shell" tagindex="0x000037FC" />  		 		
+		<item name="Wraith, Right Wing Boost" tagindex="0x000037F7" />  		 		
+		<item name="Wraith, Left Wing Boost" tagindex="0x000037F2" />  		 		
+		<item name="Wraith, Left Wing" tagindex="0x000037D7" />  		 		
+		<item name="Wraith, Right Wing" tagindex="0x000037E7" />  		 		
+		</category>		
+			<category name="Banshee">	
+		<item name="Banshee, Cab" tagindex="0x000036AC" />  		 		  		 		
+		<item name="Banshee, Bottom Fin" tagindex="0x000036C9" />  		 		  		 		
+		<item name="Banshee, Bottom Fin" tagindex="0x000036C0" />  		 		  		 		
+		<item name="Banshee, Top Fin" tagindex="0x000036BF" />  		 		  		 		
+		<item name="Banshee, Left Wing" tagindex="0x000036CE" />  		 		  		 		
+		<item name="Banshee, Wing Prong" tagindex="0x000036E0" />  		 		  		 		
+		</category>			
+				</category>	
+				</category>
 			</category>
 		</category>
 	</category>
