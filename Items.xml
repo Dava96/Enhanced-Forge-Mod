@@ -1,0 +1,48 @@
+	 <category name="MFGA">
+		<category name="Last Resort">
+			<item name="Big Wheel" tagindex="0x0000510D" />    <!-- tag phased by default ONLY -->
+			<item name="Barricade" tagindex="0x00005210" />  
+			<item name="Window" tagindex="0x000051EA" />  
+			<item name="Barriers" tagindex="0x00005102" />  
+			<item name="Barriers" tagindex="0x0000511C" />  
+			<item name="Control Panel" tagindex="0x0000512b" />  
+			<item name="HV Mascot" tagindex="0x00005239" />  
+			<item name="Skybox" tagindex="0x000050A6" />  		
+		</category>
+	  <category name="Standoff">
+		</category>
+	  <category name="Narrows">
+		</category>
+	  <category name="Guardian">
+		</category>
+	  <category name="Valhalla">
+		</category>
+	  <category name="Sandtrap">
+		</category>
+	  <category name="The Pit">
+		</category>
+	  <category name="High Ground">
+		</category>
+	  <category name="Reactor">
+		</category>
+	  <category name="Turf">
+		</category>
+	  <category name="Edge">
+		</category>
+	  <category name="Diamondback">
+		</category>
+		<category name="Weapons">
+			<category name="Objective Weapons">
+		<item name="Bomb" tagindex="0x000015a4" />  
+		<item name="Oddball" tagindex="0x000015a3" />  
+		<item name="Flag" tagindex="0x000015a2" />  
+			</category>
+			<category name="Turrets">
+			<item name="Gauss Turret" tagindex="0x000029ED" />  
+			<item name="Chaingun Turret" tagindex="0x000029EC" />  	
+			<item name="Scorpion Turret" tagindex="0x000028C7" />  	
+			<item name="Wraith Turret" tagindex="0x00003743" />  	
+			<item name="Prowler Turret" tagindex="0x000053A2" />  	
+			</category>
+		</category>
+	</category>
