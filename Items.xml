@@ -46,6 +46,11 @@
 			</category>
 			</category>
 		<category name="Decor">	
+			    <category name="Bipeds">	
+		<item name="Spartan" tagindex="0x000001DD" />  		 		  		 				 		  		 		
+		<item name="Monitor" tagindex="0x000015A0" />  		 		  		 				 		  		 		
+		<item name="Spartan Hologram" tagindex="0x00000C13" />  		 		  		 				 		  		 		
+		</category>		
 		<category name="Vehicle Parts">	
 			<category name="Scorpion">	
 		<item name="Scorpion, Drivers Hatch" tagindex="0x00002996" />  
@@ -153,7 +158,7 @@
 		<item name="Banshee, Top Fin" tagindex="0x000036BF" />  		 		  		 		
 		<item name="Banshee, Left Wing" tagindex="0x000036CE" />  		 		  		 		
 		<item name="Banshee, Wing Prong" tagindex="0x000036E0" />  		 		  		 		
-		</category>			
+		</category>				
 				</category>	
 				</category>
 			</category>
