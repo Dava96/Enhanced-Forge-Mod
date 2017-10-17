@@ -1,8 +1,7 @@
-	 <category name="MFGA">
+		 <category name="MFGA">
 		<category name="Last Resort">
 			<item name="Big Wheel" tagindex="0x0000510D" />   
 			<item name="Barricade" tagindex="0x00005210" />  
-			<item name="Window" tagindex="0x000051EA" />  
 			<item name="Barriers" tagindex="0x00005102" />  
 			<item name="Barriers" tagindex="0x0000511C" />  
 			<item name="Control Panel" tagindex="0x0000512b" />  
@@ -157,10 +156,8 @@
 		<item name="Banshee, Bottom Fin" tagindex="0x000036C0" />  		 		  		 		
 		<item name="Banshee, Top Fin" tagindex="0x000036BF" />  		 		  		 		
 		<item name="Banshee, Left Wing" tagindex="0x000036CE" />  		 		  		 		
-		<item name="Banshee, Wing Prong" tagindex="0x000036E0" />  		 		  		 		
-		</category>				
-				</category>	
-				</category>
-			</category>
-		</category>
-	</category>
+		<item name="Banshee, Wing Prong" tagindex="0x000036E0" /> 
+						</category>	
+					</category>				
+			</category>				
+		</category>	
