@@ -1,7 +1,6 @@
 		 <category name="MFGA">
 		<category name="Last Resort">
 			<item name="Big Wheel" tagindex="0x0000510D" />   
-			<item name="Barricade" tagindex="0x00005210" />  
 			<item name="Barriers" tagindex="0x00005102" />  
 			<item name="Barriers" tagindex="0x0000511C" />  
 			<item name="Control Panel" tagindex="0x0000512b" />  
@@ -9,26 +8,127 @@
 			<item name="Skybox" tagindex="0x000050A6" />  		
 		</category>
 	  <category name="Standoff">
+	  <item name="Bunker Lights" tagindex="0x00004D46" />  	
+	  <item name="Bunker Lights" tagindex="0x00004DA6" />  	
+	  <item name="Locker" tagindex="0x00004D59" />  	
+	  <item name="Fence" tagindex="0x00004D6A" />  	
+	  <item name="Metal Sheet" tagindex="0x00004D78" />  	
+	  <item name="Bunker Door" tagindex="0x00004D7D" />  	
+	  <item name="Bunker Windows" tagindex="0x00004D8C" />  	
+	  <item name="Bunker Windows" tagindex="0x00004DA7" />  	
+	  <item name="Bunker Switch" tagindex="0x00004D9A" />  	
+	  <item name="Satellite" tagindex="0x00004D20" />  	
+	  <item name="Satellite" tagindex="0x00004D54" />  	
+	  <item name="Skybox" tagindex="0x00004CD6" />  	
 		</category>
 	  <category name="Narrows">
+	   <item name="Waterfall, Bottom" tagindex="0x00003495" /> 
+	   <item name="Gravlift" tagindex="0x00004BC8" /> 
+	   <item name="Skybox" tagindex="0x00004B0F" /> 
 		</category>
 	  <category name="Guardian">
+	  <item name="Gold Lift" tagindex="0x00002ED9" /> 
+	  <item name="Gravlift" tagindex="0x00002EDA" /> 
+	  <item name="Gravlift" tagindex="0x00002EDB" /> 
+	  <item name="Mini lift" tagindex="0x00002EDD" /> 
+	  <item name="Jungle Vine" tagindex="0x00002EE6" /> 
+	  <item name="Jungle Vine" tagindex="0x00002EE7" /> 
+	  <item name="Jungle Vine" tagindex="0x00002EE8" /> 
+	  <item name="Blue Hologram" tagindex="0x00002EA4" /> 
+	  <item name="Purple Hologram" tagindex="0x00002EA5" /> 
+	  <item name="Top Middle Hologram" tagindex="0x00002ede" /> 
+	  <item name="Top Middle Hologram" tagindex="0x00002edf" /> 
+	  <item name="Top Middle Hologram" tagindex="0x00002ee0" /> 
+	  <item name="Top Middle Hologram" tagindex="0x00002ee1" /> 
+	  <item name="Top Middle Hologram" tagindex="0x00002ee2" /> 
+	  <item name="Top Middle Hologram" tagindex="0x00002ee3" /> 
+	  <item name="Nebula Hologram" tagindex="0x00002ea0" /> 
+	  <item name="Window Hologram" tagindex="0x00002ea1" /> 
+	  <item name="Earth Hologram" tagindex="0x00002ea2" /> 
+	  <item name="Ring Hologram" tagindex="0x00002EF5" /> 
+	  <item name="Skybox" tagindex="0x00002E8F" /> 
 		</category>
 	  <category name="Valhalla">
+	  <item name="Mancannon" tagindex="0x000034BE" />
+	  <item name="Mancannon Effects" tagindex="0x00003490" />
+	  <item name="Mancannon Effects" tagindex="0x00003494" />
+	  <item name="Waterfall, Top" tagindex="0x00003497" />
+	  <item name="Waterfall, Middle" tagindex="0x00003496" />
+	  <item name="Waterfall, Bottom" tagindex="0x00003495" />
+	  <item name="Tower Pulse" tagindex="0x0000348F" />
+	  <item name="Light" tagindex="0x0000360E" />
+	  <item name="Skybox" tagindex="0x0000348D" />
 		</category>
 	  <category name="Sandtrap">
+	  <item name="USNC Metal Part" tagindex="0x000056EC" />
+	  <item name="Gravlift" tagindex="0x000056F5" />
+	  <item name="Barrel" tagindex="0x000056FF" />
+	  <item name="Crowbar" tagindex="0x00005709" />
+	  <item name="Metal Part" tagindex="0x00005713" />
+	  <item name="Davinci Egg" tagindex="0x00005699" />
+	  <item name="Frigate" tagindex="0x000055AA" />
+	  <item name="Skybox" tagindex="0x00005599" />
 		</category>
 	  <category name="The Pit">
+	  <item name="Metal Part" tagindex="0x00004904" />
+	  <item name="Gravlift" tagindex="0x00004950" />
+	  <item name="Dead Bird" tagindex="0x000049B1" />
+	  <item name="Dead Bird" tagindex="0x000049C3" />
+	  <item name="Dead Bird" tagindex="0x000049DE" />
+	  <item name="Camera" tagindex="0x00004703" />
+	  <item name="White Screen" tagindex="0x000046D0" />
+	  <item name="Tarp Covered Crate" tagindex="0x0000461D" />
+	  <item name="Tarp Covered Crate" tagindex="0x00004628" />
+	  <item name="Tarp Covered Crate" tagindex="0x00004632" />
+	  <item name="Tarp Covered Crate" tagindex="0x0000463D" />
+	  <item name="Moving Camera" tagindex="0x00004643" />
+	  <item name="Moving Camera" tagindex="0x00004643" />
+	  <item name="Pelican" tagindex="0x000046C7" />
+	  <item name="Ground Fan" tagindex="0x0000476D" />
+	  <item name="Target, Brute" tagindex="0x0000477A" />
+	  <item name="Target, Jackal" tagindex="0x00004791" />
+	  <item name="Skybox" tagindex="0x000045DD" />
 		</category>
 	  <category name="High Ground">
+	  <item name="Cardboard Box" tagindex="0x000054AB" />
+	  <item name="Cardboard Box" tagindex="0x000054C7" />
+	  <item name="Cardboard Box" tagindex="0x000054CC" />
+	  <item name="Chain link Gate" tagindex="0x000054D7" />
+	  <item name="Shelves" tagindex="0x00005324" />
+	  <item name="Metal Gate" tagindex="0x0000535F" />
+	  <item name="Skybox" tagindex="0x00005301" />
 		</category>
 	  <category name="Reactor">
+	   <item name="Pelican" tagindex="0x000027C7" />
+	   <item name="Light, Red" tagindex="0x00003F8A" />
+	   <item name="Light, Blue" tagindex="0x00003F8B" />
+	   <item name="Light, Yellow" tagindex="0x00003F8C" />
+	   <item name="Frigate" tagindex="0x00003F89" />
+	   <item name="Skybox" tagindex="0x00003F88" />
 		</category>
 	  <category name="Turf">
+	  <item name="Antenna" tagindex="0x000041EA" />
+	  <item name="Metal Box" tagindex="0x000041ED" />
+	  <item name="Hornet" tagindex="0x000041EF" />
+	  <item name="Train" tagindex="0x000041EC" />
+	  <item name="Skybox" tagindex="0x000041e8" />
 		</category>
 	  <category name="Edge">
+	  <item name="Gold Lift" tagindex="0x00002ED9" />
+	  <item name="Gold Lift" tagindex="0x00003E08" />
+	  <item name="Skybox" tagindex="0x00003DDE" />
 		</category>
 	  <category name="Diamondback">
+	  <item name="Gravlift" tagindex="0x00003A9F" />
+	  <item name="Gravlift" tagindex="0x00003AA0" />
+	  <item name="Gravlift" tagindex="0x00003AA1" />
+	  <item name="Gravlift" tagindex="0x00003AA2" />
+	  <item name="Gravlift" tagindex="0x00003AA3" />
+	  <item name="Gravlift" tagindex="0x00003AA4" />
+	  <item name="Floor Crack" tagindex="0x00003A17" />
+	  <item name="Mancannon" tagindex="0x00003A19" />
+	  <item name="Mancannon" tagindex="0x00003A1A" />
+	  <item name="Skybox" tagindex="0x00003A13" />
 		</category>
 		<category name="Weapons">
 			<category name="Objective Weapons">
@@ -160,4 +260,4 @@
 						</category>	
 					</category>				
 			</category>				
-		</category>	
+		</category>
