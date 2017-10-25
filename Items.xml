@@ -82,7 +82,6 @@
 	  <item name="Tarp Covered Crate" tagindex="0x00004632" />
 	  <item name="Tarp Covered Crate" tagindex="0x0000463D" />
 	  <item name="Moving Camera" tagindex="0x00004643" />
-	  <item name="Moving Camera" tagindex="0x00004643" />
 	  <item name="Pelican" tagindex="0x000046C7" />
 	  <item name="Ground Fan" tagindex="0x0000476D" />
 	  <item name="Target, Brute" tagindex="0x0000477A" />
@@ -142,9 +141,8 @@
 		<item name="Magnum Rounds" tagindex="0x000041F1" />  
 		<item name="Rocket Launcher Rockets" tagindex="0x00001CA0" />  
 		<item name="Shotgun Rounds" tagindex="0x00001EEF" />  
-		<item name="Smg Rounds" tagindex="0x000041F0" />  
-		<item name="Smg Rounds" tagindex="0x00001B8E" />  
-		<item name="Smg Rounds" tagindex="0x00001F91" />  
+		<item name="Smg Rounds" tagindex="0x000041F0" />   
+		<item name="Sniper Rifle Rounds" tagindex="0x00001F91" />  
 			</category>
 			<category name="Turrets">
 			<item name="Gauss Turret" tagindex="0x000029ED" />  
