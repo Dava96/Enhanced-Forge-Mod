@@ -136,6 +136,16 @@
 		<item name="Oddball" tagindex="0x000015a3" />  
 		<item name="Flag" tagindex="0x000015a2" />  
 			</category>
+		<category name="Weapon Ammunition">
+		<item name="Battle Rifle Rounds" tagindex="0x000041F2" />  
+		<item name="Needler Needles" tagindex="0x000020EE" />  
+		<item name="Magnum Rounds" tagindex="0x000041F1" />  
+		<item name="Rocket Launcher Rockets" tagindex="0x00001CA0" />  
+		<item name="Shotgun Rounds" tagindex="0x00001EEF" />  
+		<item name="Smg Rounds" tagindex="0x000041F0" />  
+		<item name="Smg Rounds" tagindex="0x00001B8E" />  
+		<item name="Smg Rounds" tagindex="0x00001F91" />  
+			</category>
 			<category name="Turrets">
 			<item name="Gauss Turret" tagindex="0x000029ED" />  
 			<item name="Chaingun Turret" tagindex="0x000029EC" />  	
@@ -260,4 +270,4 @@
 						</category>	
 					</category>				
 			</category>				
-		</category>
+		</category>	
