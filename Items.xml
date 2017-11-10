@@ -1,4 +1,4 @@
-		 <category name="MFGA">
+	  		 <category name="MFGA">
 		<category name="Last Resort">
 			<item name="Big Wheel" tagindex="0x0000510D" />   
 			<item name="Barriers" tagindex="0x00005102" />  
@@ -156,8 +156,25 @@
 			    <category name="Bipeds">	
 		<item name="Spartan" tagindex="0x000001DD" />  		 		  		 				 		  		 		
 		<item name="Monitor" tagindex="0x000015A0" />  		 		  		 				 		  		 		
-		<item name="Spartan Hologram" tagindex="0x00000C13" />  		 		  		 				 		  		 		
-		</category>		
+		<item name="Spartan Hologram" tagindex="0x00000C13" /> 
+		<item name="Spartan, Knife" tagindex="0x00000C17" />  
+		<item name="Armour, Air Assault" tagindex="0x00001530" />  		 		  		 				 		  		 		
+		<item name="Armour, Shark" tagindex="0x00001531" />  		 		  		 				 		  		 		
+		<item name="Armour, Renegade" tagindex="0x00001532" />  
+		<item name="Armour, Nihard" tagindex="0x00001533" />  		 		  		 				 		  		 		
+		<item name="Armour, Gladiator" tagindex="0x00001534" />  		 		  		 				 		  		 		
+		<item name="Armour, Mac" tagindex="0x00001535" />  
+		<item name="Armour, Shark" tagindex="0x00001536" />  		 		  		 				 		  		 		
+		<item name="Armour, Juggernaut" tagindex="0x00001537" />  
+		<item name="Armour, Dutch" tagindex="0x00001538" />  		 		  		 				 		  		 		
+		<item name="Armour, Chameleon" tagindex="0x00001539" />  		 		  		 				 		  		 		
+		<item name="Armour, Halberd" tagindex="0x0000153A" />  	 		  		 				 		  		 		
+		<item name="Armour, Balista" tagindex="0x0000153F" />  		 		  		 				 		  		 		
+		<item name="Armour, Cyclops" tagindex="0x0000153B" />  		 		  		 				 		  		 		
+		<item name="Armour, Hoplite" tagindex="0x0000153E" />  		 		  		 				 		  		 		
+		<item name="Armour, Mercenary" tagindex="0x0000153D" />  		 		  		 				 		  		 		
+		<item name="Armour, Scanner" tagindex="0x0000153C" /> 		
+		</category>				                  
 		<category name="Vehicle Parts">	
 			<category name="Scorpion">	
 		<item name="Scorpion, Drivers Hatch" tagindex="0x00002996" />  
@@ -269,3 +286,4 @@
 					</category>				
 			</category>				
 		</category>	
+    </category>
