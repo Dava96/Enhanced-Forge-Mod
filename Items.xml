@@ -1,289 +1,287 @@
-	  		 <category name="MFGA">
-		<category name="Last Resort">
-			<item name="Big Wheel" tagindex="0x0000510D" />   
-			<item name="Barriers" tagindex="0x00005102" />  
-			<item name="Barriers" tagindex="0x0000511C" />  
-			<item name="Control Panel" tagindex="0x0000512b" />  
-			<item name="HV Mascot" tagindex="0x00005239" />  
-			<item name="Skybox" tagindex="0x000050A6" />  		
+<category name="MFGA">
+	<category name="Last Resort">
+		<item name="Big Wheel" tagindex="0x0000510D" />   
+		<item name="Barriers" tagindex="0x00005102" />  
+		<item name="Barriers" tagindex="0x0000511C" />  
+		<item name="Control Panel" tagindex="0x0000512b" />  
+		<item name="HV Mascot" tagindex="0x00005239" />  
+		<item name="Skybox" tagindex="0x000050A6" />  		
+	</category>
+	<category name="Standoff">
+		<item name="Bunker Lights" tagindex="0x00004D46" />  	
+		<item name="Locker" tagindex="0x00004D59" />  	
+		<item name="Fence" tagindex="0x00004D6A" />  	
+		<item name="Metal Sheet" tagindex="0x00004D78" />  	
+		<item name="Bunker Door" tagindex="0x00004D7D" />  	
+		<item name="Bunker Windows" tagindex="0x00004D8C" />  	
+		<item name="Bunker Windows" tagindex="0x00004DA7" />  	
+		<item name="Bunker Switch" tagindex="0x00004D9A" />  	
+		<item name="Satellite" tagindex="0x00004D20" />  	
+		<item name="Satellite" tagindex="0x00004D54" />  	
+		<item name="Skybox" tagindex="0x00004CD6" />  	
+	</category>
+	<category name="Narrows">
+		<item name="Waterfall, Bottom" tagindex="0x00003495" /> 
+		<item name="Gravlift" tagindex="0x00004BC8" /> 
+		<item name="Skybox" tagindex="0x00004B0F" /> 
+	</category>
+	<category name="Guardian">
+		<item name="Gold Lift" tagindex="0x00002ED9" /> 
+		<item name="Gravlift" tagindex="0x00002EDA" /> 
+		<item name="Gravlift" tagindex="0x00002EDB" /> 
+		<item name="Mini lift" tagindex="0x00002EDD" /> 
+		<item name="Jungle Vine" tagindex="0x00002EE6" /> 
+		<item name="Jungle Vine" tagindex="0x00002EE7" /> 
+		<item name="Jungle Vine" tagindex="0x00002EE8" /> 
+		<item name="Blue Hologram" tagindex="0x00002EA4" /> 
+		<item name="Purple Hologram" tagindex="0x00002EA5" /> 
+		<item name="Top Middle Hologram" tagindex="0x00002ede" /> 
+		<item name="Top Middle Hologram" tagindex="0x00002edf" /> 
+		<item name="Top Middle Hologram" tagindex="0x00002ee0" /> 
+		<item name="Top Middle Hologram" tagindex="0x00002ee1" /> 
+		<item name="Top Middle Hologram" tagindex="0x00002ee2" /> 
+		<item name="Top Middle Hologram" tagindex="0x00002ee3" /> 
+		<item name="Nebula Hologram" tagindex="0x00002ea0" /> 
+		<item name="Window Hologram" tagindex="0x00002ea1" /> 
+		<item name="Earth Hologram" tagindex="0x00002ea2" /> 
+		<item name="Ring Hologram" tagindex="0x00002EF5" /> 
+		<item name="Skybox" tagindex="0x00002E8F" /> 
+	</category>
+	<category name="Valhalla">
+		<item name="Mancannon" tagindex="0x000034BE" />
+		<item name="Mancannon Effects" tagindex="0x00003490" />
+		<item name="Mancannon Effects" tagindex="0x00003494" />
+		<item name="Waterfall, Top" tagindex="0x00003497" />
+		<item name="Waterfall, Middle" tagindex="0x00003496" />
+		<item name="Waterfall, Bottom" tagindex="0x00003495" />
+		<item name="Tower Pulse" tagindex="0x0000348F" />
+		<item name="Light" tagindex="0x0000360E" />
+		<item name="Skybox" tagindex="0x0000348D" />
+	</category>
+	<category name="Sandtrap">
+		<item name="USNC Metal Part" tagindex="0x000056EC" />
+		<item name="Gravlift" tagindex="0x000056F5" />
+		<item name="Barrel" tagindex="0x000056FF" />
+		<item name="Crowbar" tagindex="0x00005709" />
+		<item name="Metal Part" tagindex="0x00005713" />
+		<item name="Davinci Egg" tagindex="0x00005699" />
+		<item name="Frigate" tagindex="0x000055AA" />
+		<item name="Skybox" tagindex="0x00005599" />
+	</category>
+	<category name="The Pit">
+		<item name="Metal Part" tagindex="0x00004904" />
+		<item name="Gravlift" tagindex="0x00004950" />
+		<item name="Dead Bird" tagindex="0x000049B1" />
+		<item name="Dead Bird" tagindex="0x000049C3" />
+		<item name="Dead Bird" tagindex="0x000049DE" />
+		<item name="Camera" tagindex="0x00004703" />
+		<item name="White Screen" tagindex="0x000046D0" />
+		<item name="Tarp Covered Crate" tagindex="0x0000461D" />
+		<item name="Tarp Covered Crate" tagindex="0x00004628" />
+		<item name="Tarp Covered Crate" tagindex="0x00004632" />
+		<item name="Tarp Covered Crate" tagindex="0x0000463D" />
+		<item name="Moving Camera" tagindex="0x00004643" />
+		<item name="Pelican" tagindex="0x000046C7" />
+		<item name="Ground Fan" tagindex="0x0000476D" />
+		<item name="Target, Brute" tagindex="0x0000477A" />
+		<item name="Target, Jackal" tagindex="0x00004791" />
+		<item name="Skybox" tagindex="0x000045DD" />
+	</category>
+	<category name="High Ground">
+		<item name="Cardboard Box" tagindex="0x000054AB" />
+		<item name="Cardboard Box" tagindex="0x000054C7" />
+		<item name="Cardboard Box" tagindex="0x000054CC" />
+		<item name="Chain link Gate" tagindex="0x000054D7" />
+		<item name="Shelves" tagindex="0x00005324" />
+		<item name="Metal Gate" tagindex="0x0000535F" />
+		<item name="Skybox" tagindex="0x00005301" />
+	</category>
+	<category name="Reactor">
+		<item name="Pelican" tagindex="0x000027C7" />
+		<item name="Light, Red" tagindex="0x00003F8A" />
+		<item name="Light, Blue" tagindex="0x00003F8B" />
+		<item name="Light, Yellow" tagindex="0x00003F8C" />
+		<item name="Frigate" tagindex="0x00003F89" />
+		<item name="Skybox" tagindex="0x00003F88" />
+	</category>
+	<category name="Turf">
+		<item name="Antenna" tagindex="0x000041EA" />
+		<item name="Metal Box" tagindex="0x000041ED" />
+		<item name="Hornet" tagindex="0x000041EF" />
+		<item name="Train" tagindex="0x000041EC" />
+		<item name="Skybox" tagindex="0x000041e8" />
+	</category>
+	<category name="Edge">
+		<item name="Gold Lift" tagindex="0x00002ED9" />
+		<item name="Gold Lift" tagindex="0x00003E08" />
+		<item name="Skybox" tagindex="0x00003DDE" />
+	</category>
+	<category name="Diamondback">
+		<item name="Gravlift" tagindex="0x00003A9F" />
+		<item name="Gravlift" tagindex="0x00003AA0" />
+		<item name="Gravlift" tagindex="0x00003AA1" />
+		<item name="Gravlift" tagindex="0x00003AA2" />
+		<item name="Gravlift" tagindex="0x00003AA3" />
+		<item name="Gravlift" tagindex="0x00003AA4" />
+		<item name="Floor Crack" tagindex="0x00003A17" />
+		<item name="Mancannon" tagindex="0x00003A19" />
+		<item name="Mancannon" tagindex="0x00003A1A" />
+		<item name="Skybox" tagindex="0x00003A13" />
+	</category>
+	<category name="Weapons">
+		<category name="Objective Weapons">
+			<item name="Bomb" tagindex="0x000015a4" />  
+			<item name="Oddball" tagindex="0x000015a3" />  
+			<item name="Flag" tagindex="0x000015a2" />  
 		</category>
-	  <category name="Standoff">
-	  <item name="Bunker Lights" tagindex="0x00004D46" />  	
-	  <item name="Bunker Lights" tagindex="0x00004DA6" />  	
-	  <item name="Locker" tagindex="0x00004D59" />  	
-	  <item name="Fence" tagindex="0x00004D6A" />  	
-	  <item name="Metal Sheet" tagindex="0x00004D78" />  	
-	  <item name="Bunker Door" tagindex="0x00004D7D" />  	
-	  <item name="Bunker Windows" tagindex="0x00004D8C" />  	
-	  <item name="Bunker Windows" tagindex="0x00004DA7" />  	
-	  <item name="Bunker Switch" tagindex="0x00004D9A" />  	
-	  <item name="Satellite" tagindex="0x00004D20" />  	
-	  <item name="Satellite" tagindex="0x00004D54" />  	
-	  <item name="Skybox" tagindex="0x00004CD6" />  	
-		</category>
-	  <category name="Narrows">
-	   <item name="Waterfall, Bottom" tagindex="0x00003495" /> 
-	   <item name="Gravlift" tagindex="0x00004BC8" /> 
-	   <item name="Skybox" tagindex="0x00004B0F" /> 
-		</category>
-	  <category name="Guardian">
-	  <item name="Gold Lift" tagindex="0x00002ED9" /> 
-	  <item name="Gravlift" tagindex="0x00002EDA" /> 
-	  <item name="Gravlift" tagindex="0x00002EDB" /> 
-	  <item name="Mini lift" tagindex="0x00002EDD" /> 
-	  <item name="Jungle Vine" tagindex="0x00002EE6" /> 
-	  <item name="Jungle Vine" tagindex="0x00002EE7" /> 
-	  <item name="Jungle Vine" tagindex="0x00002EE8" /> 
-	  <item name="Blue Hologram" tagindex="0x00002EA4" /> 
-	  <item name="Purple Hologram" tagindex="0x00002EA5" /> 
-	  <item name="Top Middle Hologram" tagindex="0x00002ede" /> 
-	  <item name="Top Middle Hologram" tagindex="0x00002edf" /> 
-	  <item name="Top Middle Hologram" tagindex="0x00002ee0" /> 
-	  <item name="Top Middle Hologram" tagindex="0x00002ee1" /> 
-	  <item name="Top Middle Hologram" tagindex="0x00002ee2" /> 
-	  <item name="Top Middle Hologram" tagindex="0x00002ee3" /> 
-	  <item name="Nebula Hologram" tagindex="0x00002ea0" /> 
-	  <item name="Window Hologram" tagindex="0x00002ea1" /> 
-	  <item name="Earth Hologram" tagindex="0x00002ea2" /> 
-	  <item name="Ring Hologram" tagindex="0x00002EF5" /> 
-	  <item name="Skybox" tagindex="0x00002E8F" /> 
-		</category>
-	  <category name="Valhalla">
-	  <item name="Mancannon" tagindex="0x000034BE" />
-	  <item name="Mancannon Effects" tagindex="0x00003490" />
-	  <item name="Mancannon Effects" tagindex="0x00003494" />
-	  <item name="Waterfall, Top" tagindex="0x00003497" />
-	  <item name="Waterfall, Middle" tagindex="0x00003496" />
-	  <item name="Waterfall, Bottom" tagindex="0x00003495" />
-	  <item name="Tower Pulse" tagindex="0x0000348F" />
-	  <item name="Light" tagindex="0x0000360E" />
-	  <item name="Skybox" tagindex="0x0000348D" />
-		</category>
-	  <category name="Sandtrap">
-	  <item name="USNC Metal Part" tagindex="0x000056EC" />
-	  <item name="Gravlift" tagindex="0x000056F5" />
-	  <item name="Barrel" tagindex="0x000056FF" />
-	  <item name="Crowbar" tagindex="0x00005709" />
-	  <item name="Metal Part" tagindex="0x00005713" />
-	  <item name="Davinci Egg" tagindex="0x00005699" />
-	  <item name="Frigate" tagindex="0x000055AA" />
-	  <item name="Skybox" tagindex="0x00005599" />
-		</category>
-	  <category name="The Pit">
-	  <item name="Metal Part" tagindex="0x00004904" />
-	  <item name="Gravlift" tagindex="0x00004950" />
-	  <item name="Dead Bird" tagindex="0x000049B1" />
-	  <item name="Dead Bird" tagindex="0x000049C3" />
-	  <item name="Dead Bird" tagindex="0x000049DE" />
-	  <item name="Camera" tagindex="0x00004703" />
-	  <item name="White Screen" tagindex="0x000046D0" />
-	  <item name="Tarp Covered Crate" tagindex="0x0000461D" />
-	  <item name="Tarp Covered Crate" tagindex="0x00004628" />
-	  <item name="Tarp Covered Crate" tagindex="0x00004632" />
-	  <item name="Tarp Covered Crate" tagindex="0x0000463D" />
-	  <item name="Moving Camera" tagindex="0x00004643" />
-	  <item name="Pelican" tagindex="0x000046C7" />
-	  <item name="Ground Fan" tagindex="0x0000476D" />
-	  <item name="Target, Brute" tagindex="0x0000477A" />
-	  <item name="Target, Jackal" tagindex="0x00004791" />
-	  <item name="Skybox" tagindex="0x000045DD" />
-		</category>
-	  <category name="High Ground">
-	  <item name="Cardboard Box" tagindex="0x000054AB" />
-	  <item name="Cardboard Box" tagindex="0x000054C7" />
-	  <item name="Cardboard Box" tagindex="0x000054CC" />
-	  <item name="Chain link Gate" tagindex="0x000054D7" />
-	  <item name="Shelves" tagindex="0x00005324" />
-	  <item name="Metal Gate" tagindex="0x0000535F" />
-	  <item name="Skybox" tagindex="0x00005301" />
-		</category>
-	  <category name="Reactor">
-	   <item name="Pelican" tagindex="0x000027C7" />
-	   <item name="Light, Red" tagindex="0x00003F8A" />
-	   <item name="Light, Blue" tagindex="0x00003F8B" />
-	   <item name="Light, Yellow" tagindex="0x00003F8C" />
-	   <item name="Frigate" tagindex="0x00003F89" />
-	   <item name="Skybox" tagindex="0x00003F88" />
-		</category>
-	  <category name="Turf">
-	  <item name="Antenna" tagindex="0x000041EA" />
-	  <item name="Metal Box" tagindex="0x000041ED" />
-	  <item name="Hornet" tagindex="0x000041EF" />
-	  <item name="Train" tagindex="0x000041EC" />
-	  <item name="Skybox" tagindex="0x000041e8" />
-		</category>
-	  <category name="Edge">
-	  <item name="Gold Lift" tagindex="0x00002ED9" />
-	  <item name="Gold Lift" tagindex="0x00003E08" />
-	  <item name="Skybox" tagindex="0x00003DDE" />
-		</category>
-	  <category name="Diamondback">
-	  <item name="Gravlift" tagindex="0x00003A9F" />
-	  <item name="Gravlift" tagindex="0x00003AA0" />
-	  <item name="Gravlift" tagindex="0x00003AA1" />
-	  <item name="Gravlift" tagindex="0x00003AA2" />
-	  <item name="Gravlift" tagindex="0x00003AA3" />
-	  <item name="Gravlift" tagindex="0x00003AA4" />
-	  <item name="Floor Crack" tagindex="0x00003A17" />
-	  <item name="Mancannon" tagindex="0x00003A19" />
-	  <item name="Mancannon" tagindex="0x00003A1A" />
-	  <item name="Skybox" tagindex="0x00003A13" />
-		</category>
-		<category name="Weapons">
-			<category name="Objective Weapons">
-		<item name="Bomb" tagindex="0x000015a4" />  
-		<item name="Oddball" tagindex="0x000015a3" />  
-		<item name="Flag" tagindex="0x000015a2" />  
-			</category>
 		<category name="Weapon Ammunition">
-		<item name="Battle Rifle Rounds" tagindex="0x000041F2" />  
-		<item name="Needler Needles" tagindex="0x000020EE" />  
-		<item name="Magnum Rounds" tagindex="0x000041F1" />  
-		<item name="Rocket Launcher Rockets" tagindex="0x00001CA0" />  
-		<item name="Shotgun Rounds" tagindex="0x00001EEF" />  
-		<item name="Smg Rounds" tagindex="0x000041F0" />   
-		<item name="Sniper Rifle Rounds" tagindex="0x00001F91" />  
-			</category>
-			<category name="Turrets">
+			<item name="Battle Rifle Rounds" tagindex="0x000041F2" />  
+			<item name="Needler Needles" tagindex="0x000020EE" />  
+			<item name="Magnum Rounds" tagindex="0x000041F1" />  
+			<item name="Rocket Launcher Rockets" tagindex="0x00001CA0" />  
+			<item name="Shotgun Rounds" tagindex="0x00001EEF" />  
+			<item name="Smg Rounds" tagindex="0x000041F0" />   
+			<item name="Sniper Rifle Rounds" tagindex="0x00001F91" />  
+		</category>
+		<category name="Turrets">
 			<item name="Gauss Turret" tagindex="0x000029ED" />  
 			<item name="Chaingun Turret" tagindex="0x000029EC" />  	
 			<item name="Scorpion Turret" tagindex="0x000028C7" />  	
 			<item name="Wraith Turret" tagindex="0x00003743" />  	
 			<item name="Prowler Turret" tagindex="0x000053A2" />  	
-			</category>
-			</category>
-		<category name="Decor">	
-			    <category name="Bipeds">	
-		<item name="Spartan" tagindex="0x000001DD" />  		 		  		 				 		  		 		
-		<item name="Monitor" tagindex="0x000015A0" />  		 		  		 				 		  		 		
-		<item name="Spartan Hologram" tagindex="0x00000C13" /> 
-		<item name="Spartan, Knife" tagindex="0x00000C17" />  
-		<item name="Armour, Air Assault" tagindex="0x00001530" />  		 		  		 				 		  		 		
-		<item name="Armour, Shark" tagindex="0x00001531" />  		 		  		 				 		  		 		
-		<item name="Armour, Renegade" tagindex="0x00001532" />  
-		<item name="Armour, Nihard" tagindex="0x00001533" />  		 		  		 				 		  		 		
-		<item name="Armour, Gladiator" tagindex="0x00001534" />  		 		  		 				 		  		 		
-		<item name="Armour, Mac" tagindex="0x00001535" />  
-		<item name="Armour, Shark" tagindex="0x00001536" />  		 		  		 				 		  		 		
-		<item name="Armour, Juggernaut" tagindex="0x00001537" />  
-		<item name="Armour, Dutch" tagindex="0x00001538" />  		 		  		 				 		  		 		
-		<item name="Armour, Chameleon" tagindex="0x00001539" />  		 		  		 				 		  		 		
-		<item name="Armour, Halberd" tagindex="0x0000153A" />  	 		  		 				 		  		 		
-		<item name="Armour, Balista" tagindex="0x0000153F" />  		 		  		 				 		  		 		
-		<item name="Armour, Cyclops" tagindex="0x0000153B" />  		 		  		 				 		  		 		
-		<item name="Armour, Hoplite" tagindex="0x0000153E" />  		 		  		 				 		  		 		
-		<item name="Armour, Mercenary" tagindex="0x0000153D" />  		 		  		 				 		  		 		
-		<item name="Armour, Scanner" tagindex="0x0000153C" /> 		
+		</category>
+	</category>
+	<category name="Decor">	
+		<category name="Bipeds">	
+			<item name="Spartan" tagindex="0x000001DD" />  		 		  		 				 		  		 		
+			<item name="Monitor" tagindex="0x000015A0" />  		 		  		 				 		  		 		
+			<item name="Spartan Hologram" tagindex="0x00000C13" /> 
+			<item name="Spartan, Knife" tagindex="0x00000C17" />  
+			<item name="Armour, Air Assault" tagindex="0x00001530" />  		 		  		 				 		  		 		
+			<item name="Armour, Shark" tagindex="0x00001531" />  		 		  		 				 		  		 		
+			<item name="Armour, Renegade" tagindex="0x00001532" />  
+			<item name="Armour, Nihard" tagindex="0x00001533" />  		 		  		 				 		  		 		
+			<item name="Armour, Gladiator" tagindex="0x00001534" />  		 		  		 				 		  		 		
+			<item name="Armour, Mac" tagindex="0x00001535" />  
+			<item name="Armour, Shark" tagindex="0x00001536" />  		 		  		 				 		  		 		
+			<item name="Armour, Juggernaut" tagindex="0x00001537" />  
+			<item name="Armour, Dutch" tagindex="0x00001538" />  		 		  		 				 		  		 		
+			<item name="Armour, Chameleon" tagindex="0x00001539" />  		 		  		 				 		  		 		
+			<item name="Armour, Halberd" tagindex="0x0000153A" />  	 		  		 				 		  		 		
+			<item name="Armour, Balista" tagindex="0x0000153F" />  		 		  		 				 		  		 		
+			<item name="Armour, Cyclops" tagindex="0x0000153B" />  		 		  		 				 		  		 		
+			<item name="Armour, Hoplite" tagindex="0x0000153E" />  		 		  		 				 		  		 		
+			<item name="Armour, Mercenary" tagindex="0x0000153D" />  		 		  		 				 		  		 		
+			<item name="Armour, Scanner" tagindex="0x0000153C" /> 		
 		</category>				                  
 		<category name="Vehicle Parts">	
 			<category name="Scorpion">	
-		<item name="Scorpion, Drivers Hatch" tagindex="0x00002996" />  
-		<item name="Scorpion, Duffle Bag" tagindex="0x00002988" />   
-		<item name="Scorpion, Engine Panel" tagindex="0x00002989" />  
-		<item name="Scorpion, Engine Panel Large" tagindex="0x00002987" />  
-		<item name="Scorpion, Left Back Tread" tagindex="0x00002978" />  
-		<item name="Scorpion, Left Back Tread Cover" tagindex="0x000029B6" />  
-		<item name="Scorpion, Left Front Tread" tagindex="0x00002982" />  
-		<item name="Scorpion, Large Panel" tagindex="0x000029A4" />  
-		<item name="Scorpion, Tread Cover" tagindex="0x000029A3" />  
-		<item name="Scorpion, Right Back Tread" tagindex="0x0000297D" />  
-		<item name="Scorpion, Right Back Tread Cover" tagindex="0x000029C0" />  
-		<item name="Scorpion, Right Back Tread Cover" tagindex="0x000029BB" />  
-		<item name="Scorpion, Right Front Tread" tagindex="0x00002964" />  
-		<item name="Scorpion, Tread Side Panel" tagindex="0x000029A5" />  
-		<item name="Scorpion, Broken Turret" tagindex="0x00002941" />  
-		<item name="Scorpion, Broken Cannon" tagindex="0x00002958" /> 
+				<item name="Scorpion, Drivers Hatch" tagindex="0x00002996" />  
+				<item name="Scorpion, Duffle Bag" tagindex="0x00002988" />   
+				<item name="Scorpion, Engine Panel" tagindex="0x00002989" />  
+				<item name="Scorpion, Engine Panel Large" tagindex="0x00002987" />  
+				<item name="Scorpion, Left Back Tread" tagindex="0x00002978" />  
+				<item name="Scorpion, Left Back Tread Cover" tagindex="0x000029B6" />  
+				<item name="Scorpion, Left Front Tread" tagindex="0x00002982" />  
+				<item name="Scorpion, Large Panel" tagindex="0x000029A4" />  
+				<item name="Scorpion, Tread Cover" tagindex="0x000029A3" />  
+				<item name="Scorpion, Right Back Tread" tagindex="0x0000297D" />  
+				<item name="Scorpion, Right Back Tread Cover" tagindex="0x000029C0" />  
+				<item name="Scorpion, Right Back Tread Cover" tagindex="0x000029BB" />  
+				<item name="Scorpion, Right Front Tread" tagindex="0x00002964" />  
+				<item name="Scorpion, Tread Side Panel" tagindex="0x000029A5" />  
+				<item name="Scorpion, Broken Turret" tagindex="0x00002941" />  
+				<item name="Scorpion, Broken Cannon" tagindex="0x00002958" /> 
 			</category>			
 			<category name="Warthog">	
-		<item name="Warthog, Tire" tagindex="0x00002A76" />  
-		<item name="Warthog, Chaingun Barrel" tagindex="0x00002A0B" />  
-		<item name="Warthog, Turret Shield" tagindex="0x00002A0B" />  
-		<item name="Warthog, Floodlights" tagindex="0x00002A65" />
+				<item name="Warthog, Tire" tagindex="0x00002A76" />  
+				<item name="Warthog, Chaingun Barrel" tagindex="0x00002A0B" />  
+				<item name="Warthog, Turret Shield" tagindex="0x00002A0B" />  
+				<item name="Warthog, Floodlights" tagindex="0x00002A65" />
 			</category>			
 			<category name="Chopper">	
-		<item name="Chopper, Rear Part" tagindex="0x00003907" />  
-		<item name="Chopper, Left Part" tagindex="0x0000390D" />  
-		<item name="Chopper, Right Part" tagindex="0x00003912" />  
-		<item name="Chopper, Left Blade" tagindex="0x00003917" />  
-		<item name="Chopper, Right Blade" tagindex="0x0000391C" />  
-		<item name="Chopper, Left Rotor" tagindex="0x00003901" />  
-		<item name="Chopper, Right Rotor" tagindex="0x000038FA" />  
-		<item name="Chopper, Seat" tagindex="0x000038E9" />  
+				<item name="Chopper, Rear Part" tagindex="0x00003907" />  
+				<item name="Chopper, Left Part" tagindex="0x0000390D" />  
+				<item name="Chopper, Right Part" tagindex="0x00003912" />  
+				<item name="Chopper, Left Blade" tagindex="0x00003917" />  
+				<item name="Chopper, Right Blade" tagindex="0x0000391C" />  
+				<item name="Chopper, Left Rotor" tagindex="0x00003901" />  
+				<item name="Chopper, Right Rotor" tagindex="0x000038FA" />  
+				<item name="Chopper, Seat" tagindex="0x000038E9" />  
 			</category>	
 			<category name="Ghost">	
-		<item name="Ghost, Anti-Grav" tagindex="0x0000387E" />   
-		<item name="Ghost, Hull" tagindex="0x0000388B" />   
-		<item name="Ghost, Gun" tagindex="0x0000386C" />   
-		<item name="Ghost, Wing" tagindex="0x0000386B" />   
-		<item name="Ghost, Seat" tagindex="0x00003883" /> 
+				<item name="Ghost, Anti-Grav" tagindex="0x0000387E" />   
+				<item name="Ghost, Hull" tagindex="0x0000388B" />   
+				<item name="Ghost, Gun" tagindex="0x0000386C" />   
+				<item name="Ghost, Wing" tagindex="0x0000386B" />   
+				<item name="Ghost, Seat" tagindex="0x00003883" /> 
 			</category>			
 			<category name="Hornet">	
-		<item name="Hornet, Cover" tagindex="0x00002D0D" />  		
-		<item name="Hornet, Right Cover" tagindex="0x00002D08" />  		
-		<item name="Hornet, Flap" tagindex="0x00002CEA" />  		
-		<item name="Hornet, Left Gun" tagindex="0x00002D21" />  		
-		<item name="Hornet, Right Gun" tagindex="0x00002D1C" />  		
-		<item name="Hornet, Jet" tagindex="0x00002CE7" />  		
-		<item name="Hornet, Right Jet" tagindex="0x00002CFE" />  		
-		<item name="Hornet, Landing Gear" tagindex="0x00002CE0" />  		
-		<item name="Hornet, Rotor" tagindex="0x00002CE9" />  		
-		<item name="Hornet, Left Skid" tagindex="0x00002D17" />  		
-		<item name="Hornet, Right Skid" tagindex="0x00002D12" />  		
-		<item name="Hornet, Tail" tagindex="0x00002CBF" />  		
-		<item name="Hornet, Thruster" tagindex="0x00002CE8" />  		
-		<item name="Hornet, Winch" tagindex="0x00002D03" />  
+				<item name="Hornet, Cover" tagindex="0x00002D0D" />  		
+				<item name="Hornet, Right Cover" tagindex="0x00002D08" />  		
+				<item name="Hornet, Flap" tagindex="0x00002CEA" />  		
+				<item name="Hornet, Left Gun" tagindex="0x00002D21" />  		
+				<item name="Hornet, Right Gun" tagindex="0x00002D1C" />  		
+				<item name="Hornet, Jet" tagindex="0x00002CE7" />  		
+				<item name="Hornet, Right Jet" tagindex="0x00002CFE" />  		
+				<item name="Hornet, Landing Gear" tagindex="0x00002CE0" />  		
+				<item name="Hornet, Rotor" tagindex="0x00002CE9" />  		
+				<item name="Hornet, Left Skid" tagindex="0x00002D17" />  		
+				<item name="Hornet, Right Skid" tagindex="0x00002D12" />  		
+				<item name="Hornet, Tail" tagindex="0x00002CBF" />  		
+				<item name="Hornet, Thruster" tagindex="0x00002CE8" />  		
+				<item name="Hornet, Winch" tagindex="0x00002D03" />  
 			</category>	
 			<category name="Prowler">	
-		<item name="Prowler, Clamp" tagindex="0x000053E3" />  		
-		<item name="Prowler, Gear" tagindex="0x000053D2" />  		
-		<item name="Prowler, Hull" tagindex="0x000053C6" />  		
-		<item name="Prowler, Left Skid" tagindex="0x000053B4" />  		
-		<item name="Prowler, Right Skid" tagindex="0x000053BA" />  		
-		<item name="Prowler, Scoop" tagindex="0x000053D8" />  		
-		<item name="Prowler, Seat" tagindex="0x000053C0" />  		
-		<item name="Prowler, Sprocket" tagindex="0x000053CD" />  		
-		<item name="Prowler, Broken Turret" tagindex="0x000053A9" />  
-		</category>		
+				<item name="Prowler, Clamp" tagindex="0x000053E3" />  		
+				<item name="Prowler, Gear" tagindex="0x000053D2" />  		
+				<item name="Prowler, Hull" tagindex="0x000053C6" />  		
+				<item name="Prowler, Left Skid" tagindex="0x000053B4" />  		
+				<item name="Prowler, Right Skid" tagindex="0x000053BA" />  		
+				<item name="Prowler, Scoop" tagindex="0x000053D8" />  		
+				<item name="Prowler, Seat" tagindex="0x000053C0" />  		
+				<item name="Prowler, Sprocket" tagindex="0x000053CD" />  		
+				<item name="Prowler, Broken Turret" tagindex="0x000053A9" />  
+			</category>		
 			<category name="Mongoose">	
-		<item name="Mongoose, Cargo Shelf" tagindex="0x00003135" />  		
-		<item name="Mongoose, Left Cowl" tagindex="0x0000313E" />  		
-		<item name="Mongoose, Right Cowl" tagindex="0x0000313F" />  		
-		<item name="Mongoose, Left Back Fender" tagindex="0x0000314E" />  		
-		<item name="Mongoose, Ramp" tagindex="0x0000312D" />  		
-		<item name="Mongoose, Right Back Fender" tagindex="0x00003154" />  		
-		<item name="Mongoose, Wheel" tagindex="0x0000311D" />  		
-		</category>		
+				<item name="Mongoose, Cargo Shelf" tagindex="0x00003135" />  		
+				<item name="Mongoose, Left Cowl" tagindex="0x0000313E" />  		
+				<item name="Mongoose, Right Cowl" tagindex="0x0000313F" />  		
+				<item name="Mongoose, Left Back Fender" tagindex="0x0000314E" />  		
+				<item name="Mongoose, Ramp" tagindex="0x0000312D" />  		
+				<item name="Mongoose, Right Back Fender" tagindex="0x00003154" />  		
+				<item name="Mongoose, Wheel" tagindex="0x0000311D" />  		
+			</category>		
 			<category name="Shade">	
-		<item name="Shade, Door" tagindex="0x000030E1" />  		
-		<item name="Shade, Gun" tagindex="0x000030D3" />  		
-		<item name="Shade, Ring" tagindex="0x000030C5" />  		
-		</category>		
+				<item name="Shade, Door" tagindex="0x000030E1" />  		
+				<item name="Shade, Gun" tagindex="0x000030D3" />  		
+				<item name="Shade, Ring" tagindex="0x000030C5" />  		
+			</category>		
 			<category name="Wraith">	
-		<item name="Wraith, Left Pods" tagindex="0x000037C6" />  		 		
-		<item name="Wraith, Right Pods" tagindex="0x000037C7" />  		 		
-		<item name="Wraith, Broken Turret" tagindex="0x0000379F" />  		 		
-		<item name="Wraith, Gear" tagindex="0x0000380B" />  		 		
-		<item name="Wraith, Hatch" tagindex="0x000037ED" />  		 		
-		<item name="Wraith, Left Mortar Deflector" tagindex="0x0000377B" />  		 		
-		<item name="Wraith, Mortar Door" tagindex="0x0000378A" />  		 		
-		<item name="Wraith, Mortar Gun" tagindex="0x0000377C" />  		 		
-		<item name="Wraith, Mortar Hatch" tagindex="0x00003806" />  		 		
-		<item name="Wraith, Right Rudder" tagindex="0x00003801" />  		 		
-		<item name="Wraith, Rudder Shell" tagindex="0x000037FC" />  		 		
-		<item name="Wraith, Right Wing Boost" tagindex="0x000037F7" />  		 		
-		<item name="Wraith, Left Wing Boost" tagindex="0x000037F2" />  		 		
-		<item name="Wraith, Left Wing" tagindex="0x000037D7" />  		 		
-		<item name="Wraith, Right Wing" tagindex="0x000037E7" />  		 		
-		</category>		
+				<item name="Wraith, Left Pods" tagindex="0x000037C6" />  		 		
+				<item name="Wraith, Right Pods" tagindex="0x000037C7" />  		 		
+				<item name="Wraith, Broken Turret" tagindex="0x0000379F" />  		 		
+				<item name="Wraith, Gear" tagindex="0x0000380B" />  		 		
+				<item name="Wraith, Hatch" tagindex="0x000037ED" />  		 		
+				<item name="Wraith, Left Mortar Deflector" tagindex="0x0000377B" />  		 		
+				<item name="Wraith, Mortar Door" tagindex="0x0000378A" />  		 		
+				<item name="Wraith, Mortar Gun" tagindex="0x0000377C" />  		 		
+				<item name="Wraith, Mortar Hatch" tagindex="0x00003806" />  		 		
+				<item name="Wraith, Right Rudder" tagindex="0x00003801" />  		 		
+				<item name="Wraith, Rudder Shell" tagindex="0x000037FC" />  		 		
+				<item name="Wraith, Right Wing Boost" tagindex="0x000037F7" />  		 		
+				<item name="Wraith, Left Wing Boost" tagindex="0x000037F2" />  		 		
+				<item name="Wraith, Left Wing" tagindex="0x000037D7" />  		 		
+				<item name="Wraith, Right Wing" tagindex="0x000037E7" />  		 		
+			</category>		
 			<category name="Banshee">	
-		<item name="Banshee, Cab" tagindex="0x000036AC" />  		 		  		 		
-		<item name="Banshee, Bottom Fin" tagindex="0x000036C9" />  		 		  		 		
-		<item name="Banshee, Bottom Fin" tagindex="0x000036C0" />  		 		  		 		
-		<item name="Banshee, Top Fin" tagindex="0x000036BF" />  		 		  		 		
-		<item name="Banshee, Left Wing" tagindex="0x000036CE" />  		 		  		 		
-		<item name="Banshee, Wing Prong" tagindex="0x000036E0" /> 
-						</category>	
-					</category>				
-			</category>				
-		</category>	
-    </category>
+				<item name="Banshee, Cab" tagindex="0x000036AC" />  		 		  		 		
+				<item name="Banshee, Bottom Fin" tagindex="0x000036C9" />  		 		  		 		
+				<item name="Banshee, Bottom Fin" tagindex="0x000036C0" />  		 		  		 		
+				<item name="Banshee, Top Fin" tagindex="0x000036BF" />  		 		  		 		
+				<item name="Banshee, Left Wing" tagindex="0x000036CE" />  		 		  		 		
+				<item name="Banshee, Wing Prong" tagindex="0x000036E0" /> 
+			</category>	
+		</category>				
+	</category>				
+</category>
