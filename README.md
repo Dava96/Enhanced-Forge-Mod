@@ -5,10 +5,10 @@ ElDewrito is a community-made mod for Halo Online, a cancelled free Halo 3 deriv
 
 ## Description
 
-Due to the way the game works there was hundreads of objects loaded in the games memory but previously unplaceable.
+Due to the way the game works there was hundreads of objects loaded in the games memory but where previously unplaceable.
 After poking around in the games files I found out that you could add these objects by making some changes. 
 I decided to fix this as it enabled better map making. Most maps before this mod where very basic in nature due to item limits and being unable to phase objects.
-This allowed the Custom game/Forge community thrive.
+This allowed the Custom game/Forge to community thrive.
 Due to the items already being in the games files you could share maps made with this mod with users who didn't and it would still work.
 
 Most of these additions went on to make it in Eldewrito's biggest update, the 0.6 update.
