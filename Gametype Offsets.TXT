@@ -1,0 +1,159 @@
+Offset 2AC = Player Speed
+Offset 2AD = Player Gravity
+Offset 29C = Number Of Rounds
+Offset 29D = Respawn Time
+Offset 29E = Damage Resistance
+Offset 29F = Shield Charge Modifier
+Offset 2A0 = Shield Vampirism
+Offset 2A4 = Shield Multiplier
+Offset 2A6 = Primary Weapon
+Offset 2A7 = Secondary Weapon 
+Offset 2A8 = Damage Modifier
+Offset 298 = Grenades On Map
+Offset 2A9 =
+Offset 2B8 = Weapons On Map
+Offset 2B9 = 
+Offset 2BA = Vehicle Set
+Offset 2BB = Indestructable Vehicles 
+Offset 228 = 
+
+Force Color
+
+00 = unchanged
+01 = Off
+02 = Red
+03 = Blue
+04 = Green
+05 = Orange
+06 = Purple
+07 = Gold
+08 = Brown
+09 = Pink
+0A = White
+0B = Black
+0C = Zombie
+
+Speed Modifier
+
+00 = Unchanged
+01 = 25%
+02 = 50%
+03 = 75%
+04 = 90%
+05 = 100%
+06 = 110%
+07 = 125%
+08 = 150%
+09 = 200%
+0A = 300%
+
+Gravity Modifier
+
+00 = Unchanged
+01 = 0% 
+02 = 15%
+03 = 25%
+04 = 35%
+05 = 50%
+06 = 75%
+07 = 100%
+08 = 125%
+09 = 150%
+0A = 200%
+
+Damage Resistance
+
+00 = Unchanged
+01 = 10%
+02 = 50%
+03 = 90%
+04 = 100%
+05 = 110%
+06 = 150%
+07 = 200%
+08 = 300%
+09 = 500%
+0A = 1000%
+0B = 2000%
+
+Shield Vampirism
+
+00 = Unchanged
+01 = None
+02 = 10% Leech
+03 = 25% Leech
+04 = 50% Leech
+05 = 100% Leech
+
+Damage Modifier 
+
+00 = Unchanged
+01 = 0%
+02 = 25%
+03 = 50%
+04 = 75%
+05 = 90%
+06 = 100%
+07 = 110%
+08 = 125%
+09 = 150%
+0A = 200%
+0B = 300%
+0C = Instant Kill
+
+Indestructable Vehicles 
+FF = Disabled
+00 = Enabled
+
+Grenades on Map 
+01 = Map Default
+02 = None -
+
+Vehicle Set
+00 = Map Default
+01 = No Vehicles
+02 = Mongooses Only 
+03 = Ligh Ground Only
+04 = Tanks Only
+05 = Aircraft Only
+06 = No Light Ground
+07 = No Tanks 
+08 = No Aircraft
+09 = All Vehicles 
+
+
+Weapons On Map
+
+00 = Map Default
+01 = Assault Rifles
+02 = Duals
+03 = Gravity Hammers
+04 = Spartan Lasers
+05 = Rocket Launchers 
+06 = Shoutguns
+07 = SniperRifles 
+08 = Energy Swords
+09 = Random 
+0A = No Power Weapons
+0B = No Snipers
+0C = No Weapons
+0D = No Upgrades 
+
+Weapons
+
+FF = Map Default
+FE = Unchanged
+0E = None (Melee) 
+11 = Assault Rifle
+15 = Missle Pod
+16 = Needler
+17 = Plasma Cannon
+06 = None
+43 = BR
+06 = Plasma Pistol Power
+FD = Random 
+FC = Unchanged
+2E = SMG (ROF)
+48 = ?
+45 = Machine gun turret
+46 = Plasma Cannon
