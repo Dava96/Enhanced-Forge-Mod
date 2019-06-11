@@ -29,3 +29,18 @@ These objects are in the games memory but previously unusable as they weren't ad
 Allows you to use them in creating maps and distrubiting them. 
 Even to people who don't have this mod, due to these items actually already existing in the game.
 
+## How to use
+
+* [Download Enhanced Forge 2](https://github.com/Dava96/Enhanced-Forge-Mod/releases/download/v2.0/EnhancedForge2.rar)
+* Extract the zip Enhanced Forge folder here ``` \mods\tagMods```
+* Run the ```EnhancedForge2.bat``` file and wait for the install to finish.
+* Open Eldewrito in forge mode and see all the new items you can use!
+
+## Shoutout's
+
+* Thanks for Cvnaugh55 for helping finish what I originally started!
+* Thanks for all the people who tested this mod over the years (soular00t, teh0xes and Unk1.)
+
+## Screenshots 
+* [Added Items] (https://imgur.com/a/WrXiTQq)
+* [Forge Menu] (https://imgur.com/a/emWyo9J)
