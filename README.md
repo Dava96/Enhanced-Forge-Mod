@@ -42,5 +42,5 @@ Even to people who don't have this mod, due to these items actually already exis
 * Thanks for all the people who tested this mod over the years (soular00t, teh0xes and Unk1.)
 
 ## Screenshots 
-* [Added Items] (https://imgur.com/a/WrXiTQq)
-* [Forge Menu] (https://imgur.com/a/emWyo9J)
+* [Added Items](https://imgur.com/a/WrXiTQq)
+* [Forge Menu](https://imgur.com/a/emWyo9J)
